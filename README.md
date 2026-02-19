@@ -15,7 +15,7 @@ Recently built an **automated Power BI dashboard** (Databricks-powered) during m
 
 Explore my full portfolio here:
 
-➡️ [View All Projects](https://github.com/tj-jayasekera/projects)
+➡️ [View All Projects](https://github.com/tj-jayasekera/projects/blob/main/README.md)
 
 
 
