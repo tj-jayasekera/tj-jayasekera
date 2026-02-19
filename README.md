@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**tj-jayasekera/tj-jayasekera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I’m TJ
 
-Here are some ideas to get you started:
+I’m a **data & BI analyst** who loves turning messy data into clear decisions.  
+Recently built an **automated Power BI dashboard** (Databricks-powered) during my City of Melbourne internship, replacing manual Excel processes with real-time cross-department insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Double degree in Information Technology (Business Information Systems) & Business (Marketing)
+
+- 🔎 Focus areas: **SQL analytics, BI dashboards, data modelling**
+- 🧠 I like projects that connect **marketing + ops + customer experience**
+- 📍 Based in Australia (Melbourne time)
+
+---
+
+## 🧰 Tools
+
+**Languages:** SQL, Python, R
+**Databases:** PostgreSQL, Databricks  
+**BI / Visualisation:** Tableau, Power BI  
+**Other:** Git/GitHub, Excel
+
+---
+
+## 📌 Projects
+
+Explore my full portfolio here:
+
+➡️ [View All Projects](https://github.com/tj-jayasekera/projects)
+
+---
+
+## 🤝 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/theekshana-jayasekera/)
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/theekshana.jayasekera7098/vizzes)
+- ✉️ [Email](mailto:theekshanajayasekera@gmail.com)
+
+---
+
