@@ -11,19 +11,20 @@ Recently built an **automated Power BI dashboard** (Databricks-powered) during m
 - 📍 Based in Australia (Melbourne time)
   
 
-## 🧰 Tools
-
-**Languages:** SQL, Python, R
-**Databases:** PostgreSQL, Databricks  
-**BI / Visualisation:** Tableau, Power BI  
-**Other:** Git/GitHub, Excel
-
-
 ## 📌 Projects
 
 Explore my full portfolio here:
 
 ➡️ [View All Projects](https://github.com/tj-jayasekera/projects)
+
+
+
+## 🧰 Tools
+
+- Languages: SQL, Python, R
+- Databases: PostgreSQL, Databricks  
+- BI / Visualisation: Tableau, Power BI  
+- Other: Git/GitHub, Excel
 
 
 
