@@ -1,7 +1,7 @@
 
-## 👋 Hi, I’m TJ
+## 👋 Introducing Myself
 
-I’m a **data & BI analyst** who loves turning messy data into clear decisions.  
+Hi, I'm TJ. I’m a **data & BI analyst** who loves turning messy data into clear decisions.  
 Recently built an **automated Power BI dashboard** (Databricks-powered) during my City of Melbourne internship, replacing manual Excel processes with real-time cross-department insights.
 
 🎓 Double degree in Information Technology (Business Information Systems) & Business (Marketing)
@@ -9,8 +9,7 @@ Recently built an **automated Power BI dashboard** (Databricks-powered) during m
 - 🔎 Focus areas: **SQL analytics, BI dashboards, data modelling**
 - 🧠 I like projects that connect **marketing + ops + customer experience**
 - 📍 Based in Australia (Melbourne time)
-
----
+  
 
 ## 🧰 Tools
 
@@ -19,7 +18,6 @@ Recently built an **automated Power BI dashboard** (Databricks-powered) during m
 **BI / Visualisation:** Tableau, Power BI  
 **Other:** Git/GitHub, Excel
 
----
 
 ## 📌 Projects
 
@@ -27,7 +25,7 @@ Explore my full portfolio here:
 
 ➡️ [View All Projects](https://github.com/tj-jayasekera/projects)
 
----
+
 
 ## 🤝 Connect with me
 
@@ -35,5 +33,5 @@ Explore my full portfolio here:
 - 📊 [Tableau Public](https://public.tableau.com/app/profile/theekshana.jayasekera7098/vizzes)
 - ✉️ [Email](mailto:theekshanajayasekera@gmail.com)
 
----
+
 
