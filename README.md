@@ -2,7 +2,7 @@
 ## 👋 Introducing Myself
 
 Hi, I'm TJ. I’m a **data & BI analyst** who loves turning messy data into clear decisions.  
-Recently built an [automated Power BI dashboard](https://github.com/tj-jayasekera/customer-insights-dashboard) during my City of Melbourne internship, replacing manual Excel processes with real-time cross-department insights.
+Recently built an [automated Power BI dashboard](https://github.com/tj-jayasekera/customer-insights-dashboard) during my City of Melbourne internship, replacing manual Excel processes with real-time insights.
 
 🎓 Double degree in Information Technology (Business Information Systems) & Business (Marketing)
 
