@@ -6,7 +6,7 @@ Recently built an [automated Power BI dashboard](https://github.com/tj-jayaseker
 
 🎓 Double degree in Information Technology (Business Information Systems) & Business (Marketing)
 
-- 🔎 Focus areas: **SQL analytics, BI dashboards, data modelling**
+- 🔎 Focus areas: **SQL and Python analytics, BI dashboards, data modelling, data engineering**
 - 🧠 I like projects that connect **marketing + ops + customer experience**
 - 📍 Based in Australia (Melbourne time)
   
@@ -21,10 +21,10 @@ Explore my full portfolio here:
 
 ## 🧰 Tools
 
-- Languages: SQL, Python, R
-- Databases: PostgreSQL, Databricks  
-- BI / Visualisation: Tableau, Power BI  
-- Other: Git/GitHub, Excel
+- Languages: **SQL, Python, R**
+- Databases: **PostgreSQL, Databricks**  
+- BI / Visualisation: **Tableau, Power BI**  
+- Other: **Git/GitHub, Excel**
 
 
 
