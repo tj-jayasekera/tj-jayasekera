@@ -7,7 +7,6 @@ Recently built an [automated Power BI dashboard](https://github.com/tj-jayaseker
 🎓 Double degree in Information Technology (Business Information Systems) & Business (Marketing)
 
 - 🔎 Focus areas: **SQL and Python analytics, BI dashboards, data modelling, data engineering**
-- 🧠 I like projects that connect **marketing + ops + customer experience**
 - 📍 Based in Australia (Melbourne time)
   
 
