@@ -3,10 +3,11 @@
 
 Hi, I'm TJ. I’m a **data & BI analyst** who loves turning messy data into clear decisions.  
 Recently built an [automated Power BI dashboard](https://github.com/tj-jayasekera/customer-insights-dashboard) during my City of Melbourne internship, replacing manual Excel processes with real-time insights.
+I’m also interested in machine learning, predictive modelling, and building data solutions that go beyond reporting.
 
 🎓 Double degree in Information Technology (Business Information Systems) & Business (Marketing)
 
-- 🔎 Focus areas: **SQL and Python analytics, BI dashboards, data modelling, data engineering**
+- 🔎 Focus areas: **SQL and Python analytics, BI dashboards, machine learning, data modelling, data engineering**
 - 📍 Based in Australia (Melbourne time)
   
 
@@ -21,7 +22,8 @@ Explore my full portfolio here:
 ## 🧰 Tools
 
 - Languages: **SQL, Python, R**
-- Databases: **PostgreSQL, Databricks**  
+- Databases: **PostgreSQL, Databricks**
+- ML/AI: **TensorFlow, Hugging Face(Transformers), YOLOv5, PaddleOCR**
 - BI / Visualisation: **Tableau, Power BI**  
 - Other: **Git/GitHub, Excel**
 
