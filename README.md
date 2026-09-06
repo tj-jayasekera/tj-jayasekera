@@ -1,13 +1,15 @@
 
 ## Introducing Myself
 
-Hi, I'm TJ. I’m a **data & BI analyst** who loves turning messy data into clear decisions.  
-Recently built an [automated Power BI dashboard](https://github.com/tj-jayasekera/customer-insights-dashboard) during my City of Melbourne internship, replacing manual Excel processes with real-time insights.
-I’m also interested in machine learning, predictive modelling, and building data solutions that go beyond reporting.
+Hi, I'm TJ. I'm a **data & customer insights analyst** interested in understanding customer behaviour and turning complex data into clear business decisions.
 
-🎓 Double degree in Information Technology (Business Information Systems) & Business (Marketing)
+My background spans **customer experience analytics, marketing analytics, business intelligence and emerging AI**, combining a Marketing and Business Information Systems background with hands-on experience across government, consulting and digital marketing.
 
-- 🔎 Focus areas: **SQL and Python analytics, BI dashboards, machine learning, data modelling, data engineering**
+I enjoy working at the intersection of **customers, data and technology** — whether that's analysing engagement and conversion behaviour, building decision-focused dashboards, or exploring new ways AI can improve how people access and interact with information.
+
+🎓 Double degree in **Business (Marketing)** & **Information Technology (Business Information Systems)**
+
+- 🔎 **Focus areas:** Customer Insights, Marketing Analytics, Business Intelligence, Data Visualisation, SQL & Python Analytics, Generative AI
 - 📍 Based in Australia (Melbourne time)
   
 
@@ -21,11 +23,12 @@ Explore my full portfolio here:
 
 ## 🧰 Tools
 
-- Languages: **SQL, Python, R**
-- Databases: **PostgreSQL, Databricks**
-- ML/AI: **TensorFlow, Hugging Face(Transformers), YOLOv5, PaddleOCR**
-- BI / Visualisation: **Tableau, Power BI**  
-- Other: **Git/GitHub, Excel**
+- **Marketing & Insights:** GA4, Qualtrics, Customer Experience, Conversion Analysis, Survey Analysis
+- **Analytics:** SQL, Python, R
+- **BI / Visualisation:** Tableau, Power BI
+- **Data:** PostgreSQL, Databricks
+- **AI / ML:** Generative AI, RAG, Sentence Transformers, Hugging Face Transformers, TensorFlow
+- **Other:** Git/GitHub, Excel
 
 
 
