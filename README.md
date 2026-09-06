@@ -1,7 +1,7 @@
 
 ## Introducing Myself
 
-Hi, I'm TJ. I'm a **data & customer insights analyst** interested in understanding customer behaviour and turning complex data into clear business decisions.
+Hi, I'm TJ. I'm a **data analyst** interested in understanding customer behaviour and turning complex data into clear business decisions.
 
 My background spans **customer experience analytics, marketing analytics, business intelligence and emerging AI**, combining a Marketing and Business Information Systems background with hands-on experience across government, consulting and digital marketing.
 
